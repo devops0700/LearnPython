@@ -2,5 +2,5 @@ def greet(name):
 	"""This function greets to
 	the person passed in as
 	parameter"""
-name =
+name = 'Manish'
 	print("Hello, " + name + ". Good morning!")
