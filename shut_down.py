@@ -1,7 +1,8 @@
-def shut_down(s):
-#    s='yes'
+def shut_down(s="yes"):
+#    s = "yes"
+#    print (s)
     if s == "yes":
-#        print(s)
+        print(s)
         return "Shutting down"
         print "successful"
 
@@ -10,3 +11,6 @@ def shut_down(s):
 
     else:
         return "Sorry"
+
+#shut_down("yes")
+shut_down()

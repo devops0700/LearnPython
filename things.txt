@@ -1,0 +1,4 @@
+one line
+two lines
+red line
+blue line
