@@ -5,4 +5,4 @@ def defaultArg(name, msg="Hello, "):
     print(msg + name + ". Good morning!")
 
 
-defaultArg("Rat")
+defaultArg("Function")
