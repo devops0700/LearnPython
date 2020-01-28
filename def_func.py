@@ -5,4 +5,5 @@ def defaultArg(name, msg="Hello, "):
     print(msg + name + ". Good morning!")
 
 
-defaultArg("Function")
+if __name__ == '__main__':
+    defaultArg("Function")
